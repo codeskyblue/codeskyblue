@@ -11,7 +11,7 @@ App Automation
 
 Tools
 - https://github.com/codeskyblue/sshg 用于快速的ssh跳转
-- - https://github.com/codeskyblue/imutils2 Python库；集合了一些OpenCV常用的命令，如Pillow到CV的双向转化，长截图拼接
+- https://github.com/codeskyblue/imutils2 Python库；集合了一些OpenCV常用的命令，如Pillow到CV的双向转化，长截图拼接
 
 Golang Lib & Tools
 - https://github.com/codeskyblue/fswatch 监控文件变化执行相关命令
